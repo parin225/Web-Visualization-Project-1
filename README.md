@@ -7,3 +7,6 @@ This is an analysis of over 500 different cities across the world of varying dis
 A weather check was performed on each of the cities using a series of successful API  calls.
 
 After gathering all the data from OpenWeatherMap, we used Matplotlib to create scatter plots showcasing the relationship of the factors mentioned above. This website provides the visualizations created as part of the analysis and any conclusions observed from our analysis.
+
+
+deployed link: https://parin225.github.io/Web-Visualization-Project-1/
